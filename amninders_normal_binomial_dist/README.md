@@ -8,7 +8,7 @@ gaussian&binomial is a Python library for calculating and visualizing a Gaussian
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install gaussian&binomial.
 
 ```bash
-pip install amninders_normal_binomial_dist
+pip3 install amninders_normal_binomial_dist
 ```
 
 ## Usage
